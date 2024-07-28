@@ -9,7 +9,7 @@
   },
   "Reposipory":{
     "type":"git",
-    "url":""
+    "url":"git@github.com:pankajjaat2004/quizzes-app.git"
   
   "dependencies": {
     "cors": "^2.8.5",
